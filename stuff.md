@@ -1,2 +1,2 @@
 Rewrite this cool file
-Now with heroku pwoah
+Now with heroku power
